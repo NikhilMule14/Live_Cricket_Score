@@ -1,0 +1,11 @@
+img{
+    display: block;
+    width: 500px;
+    height:250px;
+    
+}
+.img,.btntag{
+    display: flex;
+    justify-content: center;
+   
+}
